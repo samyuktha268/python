@@ -1,8 +1,8 @@
 num = input()
-flag = num%2
-if flag == 0:
+samy = num%2
+if samy == 0:
     print("Even")
-elif flag == 1:
+elif samy == 1:
     print("Odd")
 else:
     print("invalid")
